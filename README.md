@@ -71,9 +71,10 @@ Skilled in **Excel, SQL, Python, Power BI, and Tableau**, with a strong interest
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo"/>
-<img width="12" />
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo"/>
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo"/>
 </div>
 
 ---
