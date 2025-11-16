@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Saged Abdelhady**  
+#  Hi, I'm **Saged Abdelhady 👋 **  
 ### 📊 Data Analyst | Excel | SQL | Python | Power BI | Tableau
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Saged-Abdelhaady&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Saged-Abdelhaady)
@@ -71,6 +71,9 @@ Skilled in **Excel, SQL, Python, Power BI, and Tableau**, with a strong interest
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo"/>
+<img width="12" />
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo"/>
 </div>
 
 ---
