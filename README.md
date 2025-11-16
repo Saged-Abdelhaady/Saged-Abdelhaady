@@ -52,6 +52,7 @@ Skilled in **Excel, SQL, Python, Power BI, and Tableau**, with a strong interest
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />
 </div>
 
+
 ### ⭐ Tools & Visualization
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
@@ -60,10 +61,13 @@ Skilled in **Excel, SQL, Python, Power BI, and Tableau**, with a strong interest
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" />
   <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" height="40"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </div>
+
 
 ### ⭐ Python Libraries
 <div align="left">
