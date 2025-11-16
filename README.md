@@ -7,7 +7,7 @@
 
 <div align="center">
 
-#  Hi, I'm **Saged Abdelhady 👋 **  
+#  Hi, I'm Saged Abdelhady 👋  
 ### 📊 Data Analyst | Excel | SQL | Python | Power BI | Tableau
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Saged-Abdelhaady&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Saged-Abdelhaady)
