@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Saged+Abdelhady.;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">Data Analyst</h3>
+
 <div align="center">
 
 # 👋 Hi, I'm **Saged Abdelhady**  
